@@ -1,0 +1,6 @@
+
+config.json
+*.json
+__pycache__/
+*.pyc
+face-auth-venv/
